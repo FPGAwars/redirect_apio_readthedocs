@@ -3,7 +3,7 @@
 project = 'Apio Documentation'
 copyright = '2025, FPGAwars'
 author = 'FPGAwars'
-release = '1 Garden
+release = '1 Redirect'
 
 extensions = []
 templates_path = []
