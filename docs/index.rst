@@ -17,8 +17,7 @@ The documentation for this project has been moved to `https://fpgawars.github.io
 
    <meta http-equiv="refresh" content="5; url=https://fpgawars.github.io/apio">
    <script type="text/javascript">
-      window.alert('The documentation has been moved to https://fpgawars.github.io/apio. You will be redirected shortly.');
-      setTimeout(function() { window.location.replace('https://fpgawars.github.io/apio'); }, 3000);
+      setTimeout(function() { window.location.replace('https://fpgawars.github.io/apio'); }, 4000);
    </script>
 
 
